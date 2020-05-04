@@ -1,2 +1,1 @@
-# 04-base-javascript
- 
+skillup-hw-js-02
