@@ -80,4 +80,4 @@ let str = "i am in the easycode";
   result += arr[i].firstLetterCaps() + ' '
 }
 }
-console.log(result); // I Am In The Easycode
+console.log(result); // I Am In The Easycode*/
